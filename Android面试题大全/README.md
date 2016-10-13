@@ -27,9 +27,9 @@
 >
 ><a href="https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis" target="_blank">安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理——凯子哥
 >
-><a href="http://www.jianshu.com/p/d1efe2f31b6d" target="_blank">史上最强Android面试资料集合(这篇文章里面讲的比较全，可以学习下)
+>**<a href="http://www.jianshu.com/p/d1efe2f31b6d" target="_blank">史上最强Android面试资料集合**(这篇文章里面讲的比较全，可以学习下)
 >
-><a href="推荐两个技术简历模板" target="_blank">http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef476f
+><a href="http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef476f" target="_blank">推荐两个技术简历模板
 >
 >
 >
