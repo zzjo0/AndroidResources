@@ -177,6 +177,10 @@
 
 >有喜欢的缩放类型的ImageView如fitCenter，centerCrop，centerTopCrop多的各种规模类型的Android纹理VideoView
 
+<a href="https://github.com/xiongwei-git/AndroidVideoPlayer" target="_blank">AndroidVideoPlayer
+
+>Android Video Player , Like NetEaseNews Video Player.
+
 #智能识别
 <a href="https://github.com/DynamsoftRD/android-tesseract-ocr" target="_blank">android-tesseract-ocr
 
