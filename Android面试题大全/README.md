@@ -1,6 +1,8 @@
 #Android面试题<a href="" target="_blank">
 ###自己平时收藏的一些Android面试题，希望能帮助到大家，觉得有用的话就star一下吧！
 >
+><a href="https://www.zhihu.com/question/19765032/answer/74361190?group_id=654385507203747840" target="_blank">面试时，问哪些问题能试出一个 Android 应用开发者真正的水平？</a>
+>
 ><a href="http://imxie.cc/2015/11/12/%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E6%95%B4%E7%90%86Andorid%E7%89%88%E6%9C%AC/" target="_blank">面试问题整理(Andorid版本)
 >
 ><a href="http://imxie.cc/2015/11/10/%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E6%95%B4%E7%90%86%EF%BC%88Java%E7%BD%91%E7%BB%9C%E7%89%88%E6%9C%AC%EF%BC%89/" target="_blank">面试问题整理(Java网络版本)
