@@ -40,7 +40,11 @@
 #数据库ORM
 <a href="https://github.com/greenrobot/greenDAO" target="_blank">greenDAO</a>
 
->greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
+>一种轻快地将对象映射到SQLite数据库的ORM解决方案
+
+<a href="https://sourceforge.net/projects/ormlite/files/releases/com/j256/ormlite/" target="_blank">OrmLite</a>
+
+>JDBC和Android的轻量级ORM java包
 
 #事件总线
 <a href="https://github.com/greenrobot/EventBus" target="_blank">EventBus</a>
