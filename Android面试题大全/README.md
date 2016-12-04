@@ -33,6 +33,6 @@
 >
 ><a href="http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef476f" target="_blank">推荐两个技术简历模板
 >
->
+><a href="http://www.jianshu.com/users/f9fbc7a39b36/latest_articles" target="_blank">**Android面试一天一题(Day1——Day30)**
 >
 >
