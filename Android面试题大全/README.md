@@ -36,3 +36,5 @@
 ><a href="http://www.jianshu.com/users/f9fbc7a39b36/latest_articles" target="_blank">**Android面试一天一题(Day1——Day30)**
 >
 ><a href="https://github.com/hujiaweibujidao/AndroidInterviews" target="_blank">**Android开发面试大礼包**
+>
+><a href="https://github.com/boredream/Android-Common-Interview-Questions" target="_blank">老外对andriod面试时要掌握的知识点做了一个总结
