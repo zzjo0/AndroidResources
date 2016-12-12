@@ -40,3 +40,5 @@
 ><a href="https://github.com/boredream/Android-Common-Interview-Questions" target="_blank">老外对andriod面试时要掌握的知识点做了一个总结
 >
 ><a href="https://github.com/GeniusVJR/LearningNotes" target="_blank">LearningNotes
+>
+><a href="http://www.bingjie.me/2016/05/12/%E6%89%AB%E6%B8%85%E9%9D%A2%E8%AF%95%E5%89%8D%E7%9A%84%E5%87%86%E5%A4%87.html#section-3" target="_blank">【飞得更高】扫清Android面试障碍--面试前的准备
