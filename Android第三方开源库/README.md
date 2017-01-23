@@ -241,12 +241,9 @@
 >
 
 #值得关注的个人博客
->
->http://blog.zhaiyifan.cn/
->
->https://hujiaweibujidao.github.io/android/
->
->http://www.codemx.cn/
+-http://blog.zhaiyifan.cn/
+-https://hujiaweibujidao.github.io/android/
+-http://www.codemx.cn/
 
 #开源项目推荐
 >http://www.codemx.cn/2016/07/25/Android-open-project/
