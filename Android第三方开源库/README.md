@@ -239,10 +239,13 @@
 >
 >[图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 >
+
 #值得关注的个人博客
 >
 >http://blog.zhaiyifan.cn/
+>
 >https://hujiaweibujidao.github.io/android/
+>
 >http://www.codemx.cn/
 
 #开源项目推荐
