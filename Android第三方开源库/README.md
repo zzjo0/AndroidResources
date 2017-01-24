@@ -247,5 +247,6 @@
 - http://www.codemx.cn/
 
 #开源项目推荐
->http://www.codemx.cn/2016/07/25/Android-open-project/
->[码农周刊整理<很好的整理资源>](https://github.com/nemoTyrant/manong)
+
+- http://www.codemx.cn/2016/07/25/Android-open-project/
+- [码农周刊整理<很好的整理资源>](https://github.com/nemoTyrant/manong)
