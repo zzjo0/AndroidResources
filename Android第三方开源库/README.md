@@ -251,3 +251,4 @@
 - http://www.codemx.cn/2016/07/25/Android-open-project/
 - [码农周刊整理<很好的整理资源>](https://github.com/nemoTyrant/manong)
 - https://github.com/north2016/T-MVP
+- [你想要的音乐视频Api](https://api.imjad.cn)
